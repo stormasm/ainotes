@@ -1,4 +1,6 @@
 
+### is goose ai considered an mcp host
+
 Yes, Goose AI is considered an MCP host. More specifically, Goose acts as an MCP client that connects to and manages various MCP servers (referred to as "extensions").
 
 The Model Context Protocol (MCP) uses a client-server architecture:
