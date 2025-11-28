@@ -14,7 +14,6 @@ In the Goose ecosystem:
 - Its built-in extensions are themselves MCP servers that run locally.
 - The architecture allows Goose to connect to a wide ecosystem of capabilities defined by the MCP standard.
 
-
-
+---
 
 - [sample-building-mcp-servers-with-rust](https://github.com/aws-samples/sample-building-mcp-servers-with-rust)
