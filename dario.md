@@ -17,12 +17,12 @@ Two days after the 25th anniversary of 9/11
 
 Nick Bostrum published the simulation argument in 2003
 
-At least one of three propositions is true 
+At least one of three propositions is true    
 although it doesn't tell us which of these three
 
 ### One
 
-Almost all civilizations at our stage of technological development
+Almost all civilizations at our stage of technological development    
 go extinct before they reach technological maturity.
 
 ### Two
