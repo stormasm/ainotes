@@ -1,3 +1,6 @@
+
+### prometer vs comprometer
+
 While both verbs relate to making promises or commitments, they differ significantly in meaning, grammatical structure, and intensity.
 
 ## **1\. Grammatical & Meaning Difference**
